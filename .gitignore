@@ -1,0 +1,15 @@
+__pycache__
+main.ipynb
+Modules/__pycache__
+
+*.dat
+*.data
+*.hist
+*.npy
+*.tar
+*.npz
+*.pkl
+*.csv
+*.tgz
+*batch*
+*histograms*
